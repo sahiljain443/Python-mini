@@ -1,3 +1,8 @@
+## This script records the time elapsed between the request sent to salesforce.com and response received
+## using Requests library of Python
+## and records the output to a file get_Request_timeElapsed.txt
+
+
 import requests
 import time
 import datetime
